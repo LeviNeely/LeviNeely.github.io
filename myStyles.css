@@ -1,0 +1,31 @@
+body {
+	background-color: #FAE0D9;
+}
+
+h1 {
+	color: #BADDEE;
+}
+
+p {
+	color: #000000;
+}
+
+.important {
+	font-weight: italic;
+	color: #FF00FF;
+}
+
+#veryImportant {
+	font-weight: bold;
+	color: #AAAAAA;
+}
+
+a {
+	color: #0000FF;
+}
+
+a:hover {
+	color: #FF11FF;;
+}
+
+
